@@ -4,5 +4,5 @@ metadata:
   name: example-configmap
   namespace: default
 data:
-  key1: value1
+  key1: new-value1
   key2: value2
